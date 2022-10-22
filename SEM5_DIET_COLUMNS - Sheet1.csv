@@ -24,8 +24,8 @@ item_no,name,diet_type,category,meal,ingredients,serving_size,calories,total fat
 23,Raspberry,Veg,Fruit,Breakfast,raspberry,100gm,52,0.7,,12,6.5,4.4,,1.2,1,,,
 24,Jackfruit,Veg,Fruit,Breakfast,jackfruit,100gm,94,0.3,,24.01,1.6,0,0,1.47,3,,0,0
 25,Custard Apple,Veg,Fruit,Breakfast,custard apple,100gm,101,0.6,,25.2,2.4,0,0,1.7,4,,0,
-26,Muskmelon,Veg,Fuit,Breakfast,muskmelon ,100gm,34,0.19,,8.16,0.9,7.86,0,0.84,16,,0,
-27,Chickoo,Veg,Fuit,Breakfast,chickoo,100gm,83,0.4,,20,10.9,0,0,0.44,12,,0,0
+26,Muskmelon,Veg,Fruit,Breakfast,muskmelon ,100gm,34,0.19,,8.16,0.9,7.86,0,0.84,16,,0,
+27,Chickoo,Veg,Fruit,Breakfast,chickoo,100gm,83,0.4,,20,10.9,0,0,0.44,12,,0,0
 28,Water chestnut,Veg,Fruit,Breakfast,water chestnut,100gm,50,0.06,,12.3,2.5,2.46,0,0.88,8,,0,
 29,Olive,Veg,Fruit,Breakfast,olive,100gm,115,11 g,,6 g,3.2 g,0 g,0,0.8 g,735,,0,
 30,Jamun,Veg,Fruit,Breakfast,jamun,100gm,60,0.23,,15.56,,,0,0.72,14,,,
